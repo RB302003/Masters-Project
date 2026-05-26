@@ -1,0 +1,19 @@
+/detector/mode sampling
+/run/initialize
+/gun/particle pi-
+/gun/position 0 0 -140 cm
+
+/gun/energy 1 GeV
+/run/beamOn 1000
+
+/gun/energy 2 GeV
+/run/beamOn 1000
+
+/gun/energy 5 GeV
+/run/beamOn 1000
+
+/gun/energy 10 GeV
+/run/beamOn 1000
+
+/gun/energy 20 GeV
+/run/beamOn 1000

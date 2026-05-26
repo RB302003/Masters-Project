@@ -1,0 +1,66 @@
+/detector/mode homogeneous
+/run/initialize
+
+
+# 1. ELECTRONS (e-)
+
+/gun/particle e-
+/gun/position 0 0 -140 cm
+
+/gun/energy 1 GeV
+/run/beamOn 2
+
+/gun/energy 2 GeV
+/run/beamOn 2
+
+/gun/energy 5 GeV
+/run/beamOn 2
+
+/gun/energy 10 GeV
+/run/beamOn 2
+
+/gun/energy 20 GeV
+/run/beamOn 2
+
+
+# 2. MUONS (mu-)
+
+/gun/particle mu-
+/gun/position 0 0 -140 cm
+
+/gun/energy 1 GeV
+/run/beamOn 2
+
+/gun/energy 2 GeV
+/run/beamOn 2
+
+/gun/energy 5 GeV
+/run/beamOn 2
+
+/gun/energy 10 GeV
+/run/beamOn 2
+
+/gun/energy 20 GeV
+/run/beamOn 2
+
+
+# 3. PIONS (pi-)
+
+/gun/particle pi-
+/gun/position 0 0 -140 cm
+
+/gun/energy 1 GeV
+/run/beamOn 2
+
+/gun/energy 2 GeV
+/run/beamOn 2
+
+/gun/energy 5 GeV
+/run/beamOn 2
+
+/gun/energy 10 GeV
+/run/beamOn 2
+
+/gun/energy 20 GeV
+/run/beamOn 2
+

@@ -1,0 +1,6 @@
+/detector/mode sampling
+/run/initialize
+/gun/energy 10 GeV
+/gun/position 0 0 -140 cm
+/gun/particle e-
+/run/beamOn 1000
