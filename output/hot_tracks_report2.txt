@@ -1,0 +1,38 @@
+
+ANALYSIS for: /home/rudradeb/sim/output/output_thread-2.root
+Hottest detector cell: 30302
+Total energy in that cell: 6698.45
+Unique tracks contributing: 149
+
+Sum of per-track contributions = 6698.45  (difference from total = 3.63798e-12)
+
+Top 10 tracks (TrackID : energy : % of cell : initialEnergy)
+  1. Track 1  ->  2096.03  ( 31.2913 % )  initialE = 2000
+  2. Track 125  ->  384.832  ( 5.74509 % )  initialE = 0.159374
+  3. Track 113  ->  353.686  ( 5.28012 % )  initialE = 0.00152561
+  4. Track 116  ->  349.267  ( 5.21415 % )  initialE = 0.00017298
+  5. Track 127  ->  349.121  ( 5.21196 % )  initialE = 0.0078757
+  6. Track 1074  ->  344.911  ( 5.14911 % )  initialE = 2.997e-05
+  7. Track 77  ->  325.798  ( 4.86379 % )  initialE = 4.005e-05
+  8. Track 503  ->  312.961  ( 4.67214 % )  initialE = 0.0065087
+  9. Track 56  ->  289.585  ( 4.32317 % )  initialE = 0.302959
+  10. Track 361  ->  287.186  ( 4.28735 % )  initialE = 0.00015613
+
+ANALYSIS for: COMBINED_ALL_FILES
+Hottest detector cell: 30601
+Total energy in that cell: 6698.45
+Unique tracks contributing: 149
+
+Sum of per-track contributions = 6698.45  (difference from total = 3.63798e-12)
+
+Top 10 tracks (TrackID : energy : % of cell : initialEnergy)
+  1. Track 1  ->  2096.03  ( 31.2913 % )  initialE = 2000
+  2. Track 125  ->  384.832  ( 5.74509 % )  initialE = 0.159374
+  3. Track 113  ->  353.686  ( 5.28012 % )  initialE = 0.00152561
+  4. Track 116  ->  349.267  ( 5.21415 % )  initialE = 0.00017298
+  5. Track 127  ->  349.121  ( 5.21196 % )  initialE = 0.0078757
+  6. Track 1074  ->  344.911  ( 5.14911 % )  initialE = 2.997e-05
+  7. Track 77  ->  325.798  ( 4.86379 % )  initialE = 4.005e-05
+  8. Track 503  ->  312.961  ( 4.67214 % )  initialE = 0.0065087
+  9. Track 56  ->  289.585  ( 4.32317 % )  initialE = 0.302959
+  10. Track 361  ->  287.186  ( 4.28735 % )  initialE = 0.00015613

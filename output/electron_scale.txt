@@ -1,0 +1,2 @@
+targetEnergyGeV, N_events, total_MIPs_sum, scale_GeV_per_MIP
+10.000000, 1000, 9.400709578898e+05, 1.063749487852e-02
